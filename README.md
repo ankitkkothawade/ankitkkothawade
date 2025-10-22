@@ -57,10 +57,27 @@ With a background in software development and analytics, I focus on turning data
 
 ### 📈 GitHub Insights  
 
+---
+
+### 📊 GitHub Stats & Activity  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkkothawade&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkkothawade&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkkothawade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkkothawade&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkkothawade&theme=tokyonight" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"> 
+  <img src="https://img.shields.io/badge/Language-SQL-lightgrey?style=flat-square&logo=sqlite">
+  <img src="https://img.shields.io/badge/Language-R-darkgreen?style=flat-square&logo=r">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-blueviolet?style=flat-square&logo=anaconda">
+  <img src="https://img.shields.io/badge/Interest-Finance%20%26%20Consulting-navy?style=flat-square&logo=chartdotjs">
+</p>
+
 
 ---
 
