@@ -30,9 +30,9 @@ With a background in software development and analytics, I focus on transforming
 
 | 🔗 Project | 💡 Description | ⚙️ Tech Stack |
 |-------------|----------------|---------------|
-| [**CEEMD–CNN–LSTM–PPO Trading Framework**](https://github.com/ankitkothawade/ceemd-cnnlstm-ppo-equity-trading) | Research-grade pipeline integrating CEEMDAN, CNN–LSTM, and PPO for portfolio optimization | Python, TensorFlow, PyTorch, Stable-Baselines3 |
-| [**Advanced Deep Learning with PyTorch**](https://github.com/ankitkothawade/pytorch-advanced-dl-gene-cifar10) | Dual-task project combining regression on gene expression and image classification (CNN vs ViT) | PyTorch, TorchVision, NumPy |
-| [**University Data Management System**](https://github.com/ankitkothawade/university-data-management-system) | Multi-model data system combining relational, XML, and ontology layers | MySQL, XML, OWL, SPARQL |
+| [**CEEMD–CNN–LSTM–PPO Trading Framework**](https://github.com/ankitkkothawade/ceemd-cnnlstm-ppo-equity-trading) | Research-grade pipeline integrating CEEMDAN, CNN–LSTM, and PPO for portfolio optimization | Python, TensorFlow, PyTorch, Stable-Baselines3 |
+| [**Advanced Deep Learning with PyTorch**](https://github.com/ankitkkothawade/deep-learning-advanced-pytorch) | Dual-task project combining regression on gene expression and image classification (CNN vs ViT) | PyTorch, TorchVision, NumPy |
+| [**University Data Management System**](https://github.com/ankitkkothawade/university-data-management-system) | Multi-model data system combining relational, XML, and ontology layers | MySQL, XML, OWL, SPARQL |
 
 ---
 
@@ -66,9 +66,9 @@ With a background in software development and analytics, I focus on transforming
 ### 💬 Get in Touch  
 
 <p align="center">
-  <a href="mailto:ankitkothawade.ds@gmail.com"><img src="https://img.shields.io/badge/Email-ankitkothawade.ds%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:ankitkothawade.ds@gmail.com"><img src="https://img.shields.io/badge/Email-ankitkkothawade%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ankit-kothawade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/ankitkothawade"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
+  <a href="https://github.com/ankitkkothawade"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
