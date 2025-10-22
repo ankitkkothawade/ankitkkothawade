@@ -57,8 +57,8 @@ With a background in software development and analytics, I focus on transforming
 ### 📈 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkothawade&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkothawade&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkkothawade&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkkothawade&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
