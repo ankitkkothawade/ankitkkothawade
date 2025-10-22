@@ -67,7 +67,7 @@ With a background in software development and analytics, I focus on turning data
 ### 💬 Get in Touch  
 
 <p align="center">
-  <a href="mailto:ankitkothawade.ds@gmail.com"><img src="https://img.shields.io/badge/Email-ankitkothawade%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:ankitkothawade.ds@gmail.com"><img src="https://img.shields.io/badge/Email-ankitkkothawade%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ankit-kothawade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/ankitkkothawade"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
 </p>
