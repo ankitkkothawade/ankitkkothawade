@@ -1,108 +1,92 @@
-<!-- 👋 Hi! I'm Ankit Kothawade – MSc Data Science | Strathclyde -->
+# Hi, I'm Ankit Kothawade 👋
 
-<h1 align="center">👋 Hi, I'm <span style="color:#0077b6;">Ankit Kothawade</span></h1>
-<h3 align="center">🎓 MSc Data Science | University of Strathclyde, UK</h3>
-<h4 align="center">💹 Data Scientist | ML & AI for Finance | Quant Analytics | Consulting & Banking Solutions</h4>
+🎓 MSc Data Science — University of Strathclyde  
+💼 Data Scientist | Machine Learning | Risk Modelling | Python | SQL  
 
----
-
-### 🚀 About Me  
-I’m a **data scientist** passionate about leveraging **machine learning, data analytics, and AI-driven decision systems** to solve complex business problems in **finance and consulting**.  
-With a background in software development and analytics, I focus on turning data into **strategic insights and measurable value** for organizations.  
-
-🔹 Experienced in **financial modeling**, **predictive analytics**, and **quantitative research**  
-🔹 Skilled at applying **deep learning** and **reinforcement learning** to business and financial data  
-🔹 Adept at **problem-solving, consulting communication, and data storytelling** for stakeholders  
-🔹 Advocate of **reproducibility**, **governance**, and **data integrity** in modern AI pipelines  
+I build **machine learning and data science systems that support real business decision-making**, particularly in **finance, risk modelling, and analytics consulting**.
 
 ---
 
-### 🧠 Highlights  
+## Featured Projects
 
-- 🎯 **Dissertation Research:** *CEEMD–CNN–LSTM–PPO: A Hybrid Deep Learning Framework for Equity Forecasting and Trading*  
-  → Integrated signal decomposition, deep learning, and reinforcement learning for cost-aware portfolio management.  
-- 🏢 **Industry Experience:** *Cognizant Technology Solutions* — Analytics & Data Optimization for business processes  
-- 📊 **Academic Expertise:** Advanced AI for Finance, Quantitative Modeling, Statistical Learning, and Decision Analytics  
-- 🌍 **Career Goal:** To drive **data-informed strategy and innovation** within the **consulting and banking** sectors  
+### Loan Default Risk Prediction
+Predictive model estimating borrower default probability using financial and behavioural data.
 
----
+Key Results:
+- ROC-AUC: **0.87**
+- Analysed **30+ borrower features**
+- Built evaluation pipeline using cross-validation and performance metrics
 
-### 🧩 Featured Projects  
-
-| 🔗 Project | 💡 Description | ⚙️ Tech Stack |
-|-------------|----------------|---------------|
-| [**CEEMD–CNN–LSTM–PPO Trading Framework**](https://github.com/ankitkkothawade/ceemd-cnnlstm-ppo-equity-trading) | Research-grade pipeline integrating CEEMDAN, CNN–LSTM, and PPO for adaptive financial portfolio optimization | Python, TensorFlow, PyTorch, Stable-Baselines3 |
-| [**Advanced Deep Learning with PyTorch**](https://github.com/ankitkkothawade/deep-learning-advanced-pytorch) | Dual-task project combining gene expression regression and CIFAR-10 image classification (CNN vs ViT) | PyTorch, TorchVision, NumPy |
-| [**University Data Management System**](https://github.com/ankitkkothawade/university-data-management-system) | Multi-model database integrating relational, XML, and ontology-based data management | MySQL, XML, OWL, SPARQL |
+Tech: Python, Pandas, Scikit-learn
 
 ---
 
-### 🧰 Tech Stack  
+### Document Intelligence Automation (LLM + NLP)
+AI pipeline extracting structured data from enterprise documents.
 
-<div align="center">
+Key Results:
+- Processed **12,000+ documents**
+- **92% document classification accuracy**
+- Reduced manual processing time by **~60%**
 
-| Category | Tools |
-|-----------|-------|
-| **Languages** | Python, SQL, R |
-| **Libraries** | TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas |
-| **ML Techniques** | Regression, Classification, CNN, LSTM, Transformers |
-| **Reinforcement Learning** | Stable-Baselines3, Gymnasium |
-| **Analytics & Engineering** | yFinance, FRED API, PyYAML, Power BI |
-| **Visualization** | Matplotlib, Seaborn, Plotly |
-| **Environment** | Jupyter, VS Code, DBeaver, Docker (basic) |
-
-</div>
+Tech: Python, NLP, LLMs
 
 ---
 
-### 📈 GitHub Insights  
+### Retrieval-Augmented Knowledge Assistant
+Semantic search system across technical documentation.
+
+Key Results:
+- Knowledge base of **679 documents**
+- Improved retrieval accuracy **0.929 → 0.971**
+- Benchmark evaluation across **70 test queries**
+
+Tech: Python, Embeddings, LLMs
 
 ---
 
-### 📊 GitHub Stats & Activity  
+## Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkkothawade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkkothawade&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160px"/>
-</p>
+**Programming**  
+Python, SQL
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkkothawade&theme=tokyonight" width="80%"/>
-</p>
+**Machine Learning**  
+Regression, Classification, Feature Engineering, Model Evaluation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python"> 
-  <img src="https://img.shields.io/badge/Language-SQL-lightgrey?style=flat-square&logo=sqlite">
-  <img src="https://img.shields.io/badge/Language-R-darkgreen?style=flat-square&logo=r">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-blueviolet?style=flat-square&logo=anaconda">
-  <img src="https://img.shields.io/badge/Interest-Finance%20%26%20Consulting-navy?style=flat-square&logo=chartdotjs">
-</p>
+**Data Science Tools**  
+Pandas, NumPy, Scikit-learn, Matplotlib
 
+**AI / NLP**  
+LLM Pipelines, Retrieval-Augmented Generation, Semantic Search
 
 ---
 
-### 💬 Get in Touch  
+## Professional Background
 
-<p align="center">
-  <a href="mailto:ankitkothawade.ds@gmail.com"><img src="https://img.shields.io/badge/Email-ankitkkothawade%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ankit-kothawade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/ankitkkothawade"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
-</p>
+Previously worked at **Cognizant Technology Solutions** developing analytical pipelines and data validation frameworks for enterprise datasets.
 
----
-
-### ✨ Quote I Live By  
-> *“Transforming data into decisions that drive measurable impact.”*  
+Key impact:
+- Improved data reliability **91% → 98%**
+- Automated **15+ data workflows**
+- Reduced recurring query errors by **25%**
 
 ---
 
-### 🧭 Current Focus  
-- 🔹 Developing **quantitative models** for risk, pricing, and portfolio optimization  
-- 🔹 Applying **ML & AI techniques** for **business intelligence and financial analytics**  
-- 🔹 Preparing for **Data Science / Analytics Consulting** roles in the UK banking & finance sector  
+## Current Focus
+
+- Credit risk modelling and financial analytics
+- Applied machine learning for decision systems
+- Data science consulting and experimentation
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:90e0ef&height=120&section=footer"/>
-</p>
+## Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/ankit-kothawade  
+
+GitHub  
+https://github.com/ankitkkothawade
+
+Email  
+ankitkkothawade@gmail.com
