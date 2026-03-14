@@ -7,6 +7,19 @@ I build **machine learning and data science systems that support real business d
 
 ---
 
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkkothawade&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkkothawade&layout=compact&theme=tokyonight)
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+
+---
+
 ## Featured Projects
 
 ### Loan Default Risk Prediction
@@ -90,3 +103,7 @@ https://github.com/ankitkkothawade
 
 Email  
 ankitkkothawade@gmail.com
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ankitkkothawade&color=00d4aa)
