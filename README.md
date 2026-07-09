@@ -51,7 +51,7 @@ Semantic search system across technical documentation.
 
 Key Results:
 - Knowledge base of **679 documents**
-- Improved retrieval accuracy **0.929 → 0.971**
+- Improved retrieval accuracy **0.71 → 0.971**
 - Benchmark evaluation across **70 test queries**
 
 Tech: Python, Embeddings, LLMs
