@@ -1,109 +1,21 @@
-# Hi, I'm Ankit Kothawade 👋
+# 💫 About Me:
+Full Name: Ankit Kothawade<br>Short Bio:<br>Data Scientist | Python • SQL • PyTorch • Deep Learning | MSc Data Science (Distinction, Strathclyde) | Open to Data Scientist & ML roles UK-wide<br>Location: Glasgow, UK<br>🛠️ Tech Stack<br>Python · SQL · PyTorch · XGBoost · scikit-learn · pandas · NumPy · LangChain · FAISS · Power BI · Tableau · Streamlit · Matplotlib · Seaborn · FastAPI · Docker · Git/GitHub · R<br>🚀 Featured Projects<br><br>Hybrid CEEMDAN-CNN-LSTM-PPO Equity Trading (Python/PyTorch) — Research-grade hybrid trading framework integrating CEEMDAN decomposition, CNN-LSTM forecasting, and PPO reinforcement learning for reproducible equity forecasting and portfolio optimization.<br>github.com/ankitkkothawade/ceemd-cnnlstm-ppo-equity-trading<br>Postgres RAG Support Assistant (Python) — Retrieval-augmented PostgreSQL support assistant providing citation-grounded answers with measurable evaluation and safe abstention.<br>github.com/ankitkkothawade/postgres-rag-support-assistant<br>Advanced Deep Learning with PyTorch (Python) — PyTorch notebooks covering lacY gene expression regression and CIFAR-10 image classification (CNN vs. ViT), with clear training/evaluation methodology.<br>github.com/ankitkkothawade/deep-learning-advanced-pytorch<br>Spotify ML Prediction (Python) — Regression and classification of Spotify tracks using scikit-learn.<br>github.com/ankitkkothawade/spotify-ml-prediction<br>LSTM Trading Strategy (R) — LSTM-based trading strategy with strategy comparison. [Note: confirm this is distinct from your PyTorch trading work — see flag above]<br>github.com/ankitkkothawade/lstm-trading-strategy<br>University Data Management System (SQL/XML/OWL) — End-to-end academic information model implementing a relational database schema, XML representation, and SPARQL/OWL ontology reasoning.<br>github.com/ankitkkothawade/university-data-management-system<br><br>(A 7th repo, portfolio-optimization-ga — genetic-algorithm portfolio optimisation in R — also exists if you'd rather swap it in for one above.)<br>📊 GitHub Stats<br>Standard enable, no personal detail needed:<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkkothawade&show_icons=true)<br>![Streak](https://streak-stats.demolab.com?user=ankitkkothawade)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkkothawade)<br>🌐 Social Links<br><br>LinkedIn: linkedin.com/in/ankit-kothawade<br>Portfolio: ankitkkothawade.github.io/Portfolio<br>Email: ankitkkothawade@gmail.com<br>X: (not found anywhere in your materials — leave blank unless you have one)<br><br>📫 Contact Section<br>📧 Email: ankitkkothawade@gmail.com<br>🔗 LinkedIn: linkedin.com/in/ankit-kothawade<br>🎯 Fun Section<br>🌱 Currently Learning: AWS Cloud Practitioner (in progress, targeting Q3 2026)<br>💬 Ask me about: SQL, deep learning (LSTM/CNN-LSTM), RAG systems<br>⚡ Fun Fact: I don't have a real one from anything you've shared — this one's genuinely yours to fill in rather than something I should invent.
 
-🎓 MSc Data Science — University of Strathclyde  
-💼 Data Scientist | Machine Learning | Risk Modelling | Python | SQL  
 
-I build **machine learning and data science systems that support real business decision-making**, particularly in **finance, risk modelling, and analytics consulting**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inkedin.com/in/ankit-kothawade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitkkothawade@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ankitkkothawade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ankitkkothawade&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankitkkothawade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkkothawade&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkkothawade&layout=compact&theme=tokyonight)
-
----
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ankitkkothawade&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured Projects
-
-### Loan Default Risk Prediction
-Predictive model estimating borrower default probability using financial and behavioural data.
-
-Key Results:
-- ROC-AUC: **0.87**
-- Analysed **30+ borrower features**
-- Built evaluation pipeline using cross-validation and performance metrics
-
-Tech: Python, Pandas, Scikit-learn
-
----
-
-### Document Intelligence Automation (LLM + NLP)
-AI pipeline extracting structured data from enterprise documents.
-
-Key Results:
-- Processed **12,000+ documents**
-- **92% document classification accuracy**
-- Reduced manual processing time by **~60%**
-
-Tech: Python, NLP, LLMs
-
----
-
-### Retrieval-Augmented Knowledge Assistant
-Semantic search system across technical documentation.
-
-Key Results:
-- Knowledge base of **679 documents**
-- Improved retrieval accuracy **0.71 → 0.971**
-- Benchmark evaluation across **70 test queries**
-
-Tech: Python, Embeddings, LLMs
-
----
-
-## Technical Skills
-
-**Programming**  
-Python, SQL
-
-**Machine Learning**  
-Regression, Classification, Feature Engineering, Model Evaluation
-
-**Data Science Tools**  
-Pandas, NumPy, Scikit-learn, Matplotlib
-
-**AI / NLP**  
-LLM Pipelines, Retrieval-Augmented Generation, Semantic Search
-
----
-
-## Professional Background
-
-Previously worked at **Cognizant Technology Solutions** developing analytical pipelines and data validation frameworks for enterprise datasets.
-
-Key impact:
-- Improved data reliability **91% → 98%**
-- Automated **15+ data workflows**
-- Reduced recurring query errors by **25%**
-
----
-
-## Current Focus
-
-- Credit risk modelling and financial analytics
-- Applied machine learning for decision systems
-- Data science consulting and experimentation
-
----
-
-## Connect With Me
-
-LinkedIn  
-https://linkedin.com/in/ankit-kothawade  
-
-GitHub  
-https://github.com/ankitkkothawade
-
-Email  
-ankitkkothawade@gmail.com
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ankitkkothawade&color=00d4aa)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
