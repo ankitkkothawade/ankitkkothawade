@@ -9,7 +9,7 @@ MSc Advanced Computer Science with Data Science (**Distinction**, University of 
 **[Grid Foresight](https://grid-foresight-2hmlbndrwlmkeyz3kqxhwe.streamlit.app)** — UK electricity demand forecasting *(live app)*
 XGBoost day-ahead forecaster on public NESO data, compared against naive, seasonal-naive, ETS, ARIMA/SARIMA and Prophet with walk-forward validation, and benchmarked against NESO's own production forecast (5.87% vs 3.92% MAPE). An LLM/RAG layer turns forecasts into plain-English briefings.
 
-**SQL Hallucination Detector** — checking LLM-generated SQL without ground truth *(in progress)*
+**[SQL Hallucination Detector](https://github.com/ankitkkothawade/Halluciation_detector)** — checking LLM-generated SQL without ground truth *(in progress)*
 Schema-linking and execution checks on the Spider benchmark. Under degraded-schema stress tests, static checks caught 24 of 25 execution failures with 0 false positives across ~450 correct queries.
 
 **[Hybrid CEEMDAN-CNN-LSTM-PPO Equity Trading](https://github.com/ankitkkothawade/ceemd-cnnlstm-ppo-equity-trading)** — MSc dissertation
